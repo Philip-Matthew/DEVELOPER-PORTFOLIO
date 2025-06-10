@@ -11,7 +11,7 @@ export const HeroSection = () => {
           {/* Profile Image */}
           <div className="w-42 h-42 md:w-48 md:h-48 rounded-full overflow-hidden shadow-lg border-4 border-primary flex-shrink-0">
             <img
-              src="/public/passportImg.png"
+              src="/passportImg.png"
               alt="Profile"
               className="w-full h-full object-cover"
             />
