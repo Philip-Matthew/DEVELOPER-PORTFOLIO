@@ -3,12 +3,13 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Grovenza - An E-commerce Platform",
+    description:
+      "A fully functional, dynamic and Responsive Full-stack E-commerce Website using MERN stack.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://grovenza.vercel.app/",
+    githubUrl: "https://github.com/Philip-Matthew/GROVENZA",
   },
   {
     id: 2,
